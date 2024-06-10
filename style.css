@@ -1,0 +1,22 @@
+body{
+    background-color:tan;
+}
+    h1{
+    color: rgb(69, 19, 19);
+}
+h2{
+    color:rgb(119, 46, 46);
+}
+img{
+    width:495px;
+    border: 5px solid rgb(118, 100, 79);
+}
+.img2{
+    width:300px;
+    height: 350px;
+}
+p{
+    color:rgb(87, 33, 33);
+    border: solid rgb(189, 153, 63) 5px;
+    font-family:'Courier New', Courier, monospace;
+}
